@@ -1,1 +1,1 @@
-print("Greeting Earth! We come in peace.")
+print("Greeting Earth! God bless all creatures.")
